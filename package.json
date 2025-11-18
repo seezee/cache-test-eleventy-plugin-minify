@@ -16,6 +16,6 @@
   },
   "devDependencies": {
     "@codestitchofficial/eleventy-plugin-minify": "^1.1.3",
-    "eleventy-auto-cache-buster": "^0.8.2"
+    "eleventy-auto-cache-buster": "^0.8.3"
   }
 }
